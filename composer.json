@@ -1,11 +1,11 @@
 {
-    "name": "zf-commons/zfc-user",
-    "description": "A generic user registration and authentication module for ZF2. Supports Zend\\Db and Doctrine2.",
+    "name": "jmleroux/zfc-user",
+    "description": "A ZfcUser fork",
     "type": "library",
     "keywords": [
         "zf2"
     ],
-    "homepage": "https://github.com/ZF-Commons/ZfcUser",
+    "homepage": "https://github.com/jmleroux/ZfcUser",
     "authors": [
         {
             "name": "Evan Coury",
